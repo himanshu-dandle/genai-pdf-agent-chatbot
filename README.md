@@ -2,6 +2,11 @@
 
 This project is an intelligent PDF assistant built using **LangChain**, **OpenAI**, **FAISS**, and **Streamlit**. It allows you to upload a NEET/NCERT-style PDF and ask questions — the agent will smartly answer using document retrieval, GPT, and even do math!
 
+
+## Live Demo
+
+👉 [Try the app on Streamlit Cloud](https://genai-pdf-agent-chatbot-wk5cjv9mjsahrjwbxqx8qc.streamlit.app/)
+
 ---
 
 ##  Features
@@ -20,7 +25,8 @@ This project is an intelligent PDF assistant built using **LangChain**, **OpenAI
 
 ##  Demo
 
-![screenshot](screenshot.png) <!-- optional -->
+![screenshot](screenshot.png) 
+
 
 ---
 
